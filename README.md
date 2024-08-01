@@ -1,1 +1,4 @@
 # Calculator
+
+
+![Screenshot 2024-08-01 224436](https://github.com/user-attachments/assets/b548b6a6-b477-49ba-b423-1924306efd6d)
